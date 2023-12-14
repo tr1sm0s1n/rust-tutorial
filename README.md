@@ -4,7 +4,7 @@ Reference repository for Rustaceans. Highly recommend [`rustlings`](https://gith
 
 ## 🛠 Built With
 
-[![Rust](https://img.shields.io/badge/rust-B22222?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/rust-firebrick?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ## 📜 License
 
